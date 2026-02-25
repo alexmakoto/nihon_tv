@@ -9,7 +9,7 @@ https://nl.utako.moe/NHK_E/index.m3u8
 https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",テレビ朝日
 https://nl.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+#EXTINF:-1 group-title="Tokyo" tvg-id="TBS_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS_jp
 https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレ東
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
