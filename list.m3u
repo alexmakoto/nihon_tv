@@ -15,5 +15,5 @@ https://live.livingtv.live/jp5/playlist.m3u8?token=M7VMdfn2WH
 https://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo" tvg-id="FujiTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",フジテレビ
 https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Tokyo" tvg-id="NG.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/250px-National_Geographic_Logo.svg.png",ナショナル ジオグラフィック
+#EXTINF:-1 group-title="Tokyo" tvg-id="NG.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/250px-National_Geographic_Logo.svg.png",ナショナル-ジオグラフィック
 http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
