@@ -6,11 +6,11 @@ https://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo" tvg-id="NHKE.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK東京・教育
 https://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo" tvg-id="日本てれび_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NTV2013RedVariant.svg/960px-NTV2013RedVariant.svg.png",日本テレビ
-https://live.livingtv.live/jp4/playlist.m3u8?token=M7VMdfn2WH
+https://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo" tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",テレビ朝日
 https://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo" tvg-id="TBS.jp" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
-https://live.livingtv.live/jp5/playlist.m3u8?token=M7VMdfn2WH
+https://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo" tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレ東
 https://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo" tvg-id="FujiTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",フジテレビ
