@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Tokyo" tvg-id="NHKワールド-PREMIUM.jp" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png",NHKワールド-PREMIUM
-https://cdn3.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="NHKGeneral.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK東京・総合
-https://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Tokyo" tvg-id="NHKE.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK東京・教育
-https://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Tokyo" tvg-id="日本てれび_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NTV2013RedVariant.svg/960px-NTV2013RedVariant.svg.png",日本テレビ
-https://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/nhk_g_(subch)/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo" tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",テレビ朝日
-https://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Tokyo" tvg-id="TBS.jp" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
-https://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Tokyo" tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレ東
-https://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Tokyo" tvg-id="FujiTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",フジテレビ
-https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="Tokyo" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/250px-National_Geographic_Logo.svg.png",ナショナル-ジオグラフィック
-http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
