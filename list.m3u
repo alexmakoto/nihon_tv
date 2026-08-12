@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="Tokyo" tvg-id="NHKGeneral.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK東京・総合
-http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+http://tsb-mega.i9.ee/stream/nhkg_avc_1080p|user-agent=VLC
 #EXTINF:-1 group-title="Tokyo" tvg-id="NHKE.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK東京・教育
-http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying
+http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Tokyo" tvg-id="日本てれび_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NTV2013RedVariant.svg/960px-NTV2013RedVariant.svg.png",日本テレビ
-http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying
+http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Tokyo" tvg-id="TVAsahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",テレビ朝日
-http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying
+http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Tokyo" tvg-id="TBS.jp" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
-http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying
+http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Tokyo" tvg-id="TVTokyo.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレ東
-http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying
+http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Tokyo" tvg-id="FujiTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",フジテレビ
 http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Tokyo" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/250px-National_Geographic_Logo.svg.png",ナショナル-ジオグラフィック
